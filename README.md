@@ -8,7 +8,7 @@ relevan, bukan kode yang selalu ikut ke setiap percakapan.
 
 | Skill | Kegunaan |
 |---|---|
-| [`vertical-video-pipeline`](vertical-video-pipeline/) | Membuat video vertikal 9:16 (Reels/Shorts/TikTok) dari skrip per adegan: narasi TTS, caption terbakar yang waktunya akurat, latar dari HTML, dirakit ffmpeg. Tanpa wajah, tanpa aplikasi editor. |
+| [`vertical-video-pipeline`](skills/vertical-video-pipeline/) | Membuat video vertikal 9:16 (Reels/Shorts/TikTok) dari skrip per adegan: narasi TTS, caption terbakar yang waktunya akurat, latar dari HTML, dirakit ffmpeg. Tanpa wajah, tanpa aplikasi editor. |
 
 ## Memasang
 
